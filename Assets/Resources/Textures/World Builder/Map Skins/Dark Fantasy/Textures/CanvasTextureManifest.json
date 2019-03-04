@@ -1,0 +1,80 @@
+
+{
+    "path" : "Textures/HD/World Builder/Map Skins/Dark Fantasy/Textures/",
+    "sculptTexture" : 5,
+    "defaultPaintTexture" : 0,
+    "textureDatas"        : [
+        {
+            "name" : "Desert",
+            "thumbnailPath" : "darkfantasy-desert_thumbnail",
+            "path"          : "darkfantasy-desert"
+        },
+        {
+            "name" : "Forest",
+            "thumbnailPath" : "darkfantasy-forest_thumbnail",
+            "path"          : "darkfantasy-forest"
+        },
+        {
+            "name" : "Golden Field",
+            "thumbnailPath" : "darkfantasy-goldenfield_thumbnail",
+            "path"          : "darkfantasy-goldenfield"
+        },
+        {
+            "name" : "Grassland",
+            "thumbnailPath" : "darkfantasy-grassland_thumbnail",
+            "path"          : "darkfantasy-grassland"
+        },
+        {
+            "name" : "Ice",
+            "thumbnailPath" : "darkfantasy-ice_thumbnail",
+            "path"          : "darkfantasy-ice"
+        },
+        {
+            "name" : "Land",
+            "thumbnailPath" : "darkfantasy-land_thumbnail",
+            "path"          : "darkfantasy-land"
+        },
+        {
+            "name" : "Lava",
+            "thumbnailPath" : "darkfantasy-lava_thumbnail",
+            "path"          : "darkfantasy-lava"
+        },
+        {
+            "name" : "Roads",
+            "thumbnailPath" : "darkfantasy-roads_thumbnail",
+            "path"          : "darkfantasy-roads"
+        },
+        {
+            "name" : "Roads 2",
+            "thumbnailPath" : "darkfantasy-roads-v2_thumbnail",
+            "path"          : "darkfantasy-roads-v2"
+        },
+        {
+            "name" : "Swamp",
+            "thumbnailPath" : "darkfantasy-swamp_thumbnail",
+            "path"          : "darkfantasy-swamp"
+        },
+        {
+            "name" : "Tundra",
+            "thumbnailPath" : "darkfantasy-tundra_thumbnail",
+            "path"          : "darkfantasy-tundra"
+        },
+        {
+            "name" : "Water",
+            "thumbnailPath" : "darkfantasy-water_thumbnail",
+            "path"          : "darkfantasy-water"
+        },
+        {
+            "name" : "Water (Deep)",
+            "thumbnailPath" : "darkfantasy-water-deep_thumbnail",
+            "path"          : "darkfantasy-water-deep"
+        },
+        {
+            "name" : "Water (Shallow)",
+            "thumbnailPath" : "darkfantasy-water-shallow_thumbnail",
+            "path"          : "darkfantasy-water-shallow"
+        }
+    ],
+    "contractType"        : "CanvasTextureManifest",
+    "guid"                : "0b9df4a0-ab94-4c1e-a214-36e0f54d32f5"
+}

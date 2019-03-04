@@ -1,0 +1,476 @@
+
+{
+    "path" : "Textures/HD/World Builder/Map Skins/Dark Fantasy/Patterns/",
+    "patternDatas" : [
+        {
+            "name" : "Mountain",
+            "patternObjectDatas" : [
+                {
+                    "path" : "mountain-size1@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size2@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size3@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size4@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size5@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size6@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size7@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size8@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size9@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size10@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size11@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "mountain-size12@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                }
+            ],
+            "path"               : "mountain-size4@2x"
+        },
+        {
+            "name" : "Tree (Autumn)",
+            "patternObjectDatas" : [
+                {
+                    "path" : "autumn-size1@2x",
+                    "dimensions" : {
+                        "x" : 11,
+                        "y" : 11
+                    }
+                },
+                {
+                    "path" : "autumn-size2@2x",
+                    "dimensions" : {
+                        "x" : 10,
+                        "y" : 10
+                    }
+                },
+                {
+                    "path" : "autumn-size3@2x",
+                    "dimensions" : {
+                        "x" : 12,
+                        "y" : 12
+                    }
+                },
+                {
+                    "path" : "autumn-size4@2x",
+                    "dimensions" : {
+                        "x" : 11,
+                        "y" : 12
+                    }
+                },
+                {
+                    "path" : "autumn-size5@2x",
+                    "dimensions" : {
+                        "x" : 12,
+                        "y" : 11
+                    }
+                },
+                {
+                    "path" : "autumn-size6@2x",
+                    "dimensions" : {
+                        "x" : 12,
+                        "y" : 12
+                    }
+                },
+                {
+                    "path" : "autumn-size7@2x",
+                    "dimensions" : {
+                        "x" : 11,
+                        "y" : 12
+                    }
+                },
+                {
+                    "path" : "autumn-size8@2x",
+                    "dimensions" : {
+                        "x" : 15,
+                        "y" : 15
+                    }
+                }
+            ],
+            "path"               : "autumn-size1@2x"
+        },
+        {
+            "name" : "Tree (Conifer)",
+            "patternObjectDatas" : [
+                {
+                    "path" : "conifer-size1@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "conifer-size2@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "conifer-size3@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "conifer-size4@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "conifer-size5@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "conifer-size6@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                }
+            ],
+            "path"               : "conifer-size1@2x"
+        },
+        {
+            "name" : "Tree (Dead)",
+            "patternObjectDatas" : [
+                {
+                    "path" : "dead1@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "dead2@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "dead3@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "dead4@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "dead5@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "dead6@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "dead7@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "dead8@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                }
+            ],
+            "path"               : "dead1@2x"
+        },
+        {
+            "name" : "Tree (Deciduous)",
+            "patternObjectDatas" : [
+                {
+                    "path" : "deciduous-size1@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "deciduous-size2@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "deciduous-size3@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "deciduous-size4@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "deciduous-size5@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "deciduous-size6@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "deciduous-size7@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "deciduous-size8@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "deciduous-size9@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                }
+            ],
+            "path"               : "deciduous-size1@2x"
+        },
+        {
+            "name" : "Tree (Palm)",
+            "patternObjectDatas" : [
+                {
+                    "path" : "palm1@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "palm2@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "palm3@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "palm4@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "palm5@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                }
+            ],
+            "path"               : "palm1@2x"
+        },
+        {
+            "name" : "Tree (Snow Pine)",
+            "patternObjectDatas" : [
+                {
+                    "path" : "snowpine-size1@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "snowpine-size2@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "snowpine-size3@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "snowpine-size4@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "snowpine-size5@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "snowpine-size6@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                }
+            ],
+            "path"               : "snowpine-size1@2x"
+        },
+        {
+            "name" : "Tree (Swamp)",
+            "patternObjectDatas" : [
+                {
+                    "path" : "swamp1@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "swamp2@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "swamp3@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "swamp4@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "swamp5@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                },
+                {
+                    "path" : "swamp6@2x",
+                    "dimensions" : {
+                        "x" : 0,
+                        "y" : 0
+                    }
+                }
+            ],
+            "path"               : "swamp1@2x"
+        }
+    ],
+    "contractType" : "PatternDataManifest",
+    "guid"         : "ae586587-216f-49eb-b463-23e2507f2694"
+}

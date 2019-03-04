@@ -1,0 +1,160 @@
+
+{
+    "path" : "Textures/HD/World Builder/Map Skins/Dungeon/Objects/",
+    "objectDatas" : [
+        {
+            "name" : "Barrel-Side",
+            "path" : "barrel-side@2x"
+        },
+        {
+            "name" : "Barrel-Top",
+            "path" : "barrel-top@2x"
+        },
+        {
+            "name" : "Bones",
+            "path" : "bones-pile@2x"
+        },
+        {
+            "name" : "Brazier",
+            "path" : "brazier-large-smoldering@2x"
+        },
+        {
+            "name" : "Chair",
+            "path" : "chair-wood-1@2x"
+        },
+        {
+            "name" : "Chest",
+            "path" : "chest-1@2x"
+        },
+        {
+            "name" : "Cot",
+            "path" : "bed-cot1@2x"
+        },
+        {
+            "name" : "Crate-Long",
+            "path" : "crate-longl-1@x2"
+        },
+        {
+            "name" : "Crate-Small",
+            "path" : "crate-small-1@2x"
+        },
+        {
+            "name" : "Crate-Square",
+            "path" : "crate-square-1@2x"
+        },
+        {
+            "name" : "Door-Double",
+            "path" : "door-double-1@2x"
+        },
+        {
+            "name" : "Door-Single",
+            "path" : "door-single-1@2x"
+        },
+        {
+            "name" : "Gold",
+            "path" : "gold-pile@x2"
+        },
+        {
+            "name" : "Pillar-Large",
+            "path" : "pillar-large@2x"
+        },
+        {
+            "name" : "Pillar-Medium",
+            "path" : "pillar-medium@2x"
+        },
+        {
+            "name" : "Pillar-Small",
+            "path" : "pillar-small@2x"
+        },
+        {
+            "name" : "Rug",
+            "path" : "rug1@x2"
+        },
+        {
+            "name" : "Rug-Bear",
+            "path" : "rug-bear@2x"
+        },
+        {
+            "name" : "Sarcophagus",
+            "path" : "sarcophagus1@2x"
+        },
+        {
+            "name" : "Stairs-10x10",
+            "path" : "stairs-10x10@2x"
+        },
+        {
+            "name" : "Stairs-10x20",
+            "path" : "stairs-10x20@2x"
+        },
+        {
+            "name" : "Stairs-10x5",
+            "path" : "stairs-10x5@2x"
+        },
+        {
+            "name" : "Stairs-20x5",
+            "path" : "stairs-20x5@2x"
+        },
+        {
+            "name" : "Stairs-5x10",
+            "path" : "stairs-5x10@2x"
+        },
+        {
+            "name" : "Stairs-5x5",
+            "path" : "stairs-5x5@2x"
+        },
+        {
+            "name" : "Stairs-Half",
+            "path" : "stairs-5half@2x"
+        },
+        {
+            "name" : "Stairs-Quater Circle",
+            "path" : "stairs-10quarter@2x"
+        },
+        {
+            "name" : "Stairs-Three Quater Circle",
+            "path" : "stairs-10threequarters@2x"
+        },
+        {
+            "name" : "Stairs-Three Quaters",
+            "path" : "stairs-5threequarters@2x"
+        },
+        {
+            "name" : "Statue-Angel",
+            "path" : "statue-marbleangel@x2"
+        },
+        {
+            "name" : "Statue-Armored",
+            "path" : "statue-armored@x2"
+        },
+        {
+            "name" : "Statue-Gold Minotaur",
+            "path" : "statue-goldminotaur@x2"
+        },
+        {
+            "name" : "Stiars-Half Circle",
+            "path" : "stairs-10halfr@2x"
+        },
+        {
+            "name" : "Table",
+            "path" : "table-wood-1@2x"
+        },
+        {
+            "name" : "Table-Sacraficial",
+            "path" : "table-sacrificial-1@2x"
+        },
+        {
+            "name" : "Table-Short",
+            "path" : "table-short@x2"
+        },
+        {
+            "name" : "Throne",
+            "path" : "throne-spiked@2x"
+        },
+        {
+            "name" : "Well",
+            "path" : "well-1@2x"
+        }
+    ],
+    "contractType" : "ObjectDataManifest",
+    "guid"         : "ad205f4f-f815-4925-adf3-d372f1eccc39"
+}

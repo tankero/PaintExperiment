@@ -1,0 +1,30 @@
+
+{
+    "path" : "Textures/HD/World Builder/Map Skins/Dungeon/Textures/",
+    "sculptTexture" : 0,
+    "defaultPaintTexture" : 2,
+    "textureDatas"        : [
+        {
+            "name" : "Floor",
+            "thumbnailPath" : "texture-premiumdungeon-floor_thumbnail",
+            "path"          : "texture-premiumdungeon-floor"
+        },
+        {
+            "name" : "Lava",
+            "thumbnailPath" : "texture-premiumdungeion-lava_thumbnail",
+            "path"          : "texture-premiumdungeion-lava"
+        },
+        {
+            "name" : "Parchment",
+            "thumbnailPath" : "texture-premiumdungeon-parchment_thumbnail",
+            "path"          : "texture-premiumdungeon-parchment"
+        },
+        {
+            "name" : "Water",
+            "thumbnailPath" : "texture-premiumdungeion-water_thumbnail",
+            "path"          : "texture-premiumdungeion-water"
+        }
+    ],
+    "contractType"        : "CanvasTextureManifest",
+    "guid"                : "106e22e5-b376-421e-a169-031cf1e4f696"
+}

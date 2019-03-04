@@ -1,0 +1,176 @@
+
+{
+    "path" : "Textures/HD/World Builder/Map Skins/Dark Fantasy/Objects/",
+    "objectDatas" : [
+        {
+            "name" : "Bridge",
+            "path" : "bridge-horizontal@2x"
+        },
+        {
+            "name" : "Bridge (Left)",
+            "path" : "bridge-diagonal-left@2x"
+        },
+        {
+            "name" : "Bridge (Right)",
+            "path" : "bridge-diagonal-right@2x"
+        },
+        {
+            "name" : "Bridge (Tower)",
+            "path" : "bridge-tower@2x"
+        },
+        {
+            "name" : "Bridge (Vertical)",
+            "path" : "bridge-vertical@2x"
+        },
+        {
+            "name" : "Camp (Monster)",
+            "path" : "camp-monster@2x"
+        },
+        {
+            "name" : "Castle",
+            "path" : "castle@2x"
+        },
+        {
+            "name" : "Cave",
+            "path" : "cave@2x"
+        },
+        {
+            "name" : "Chief Camp (Monster)",
+            "path" : "cheifcamp-monster@2x"
+        },
+        {
+            "name" : "Citadel 1",
+            "path" : "citadel1@2x"
+        },
+        {
+            "name" : "Citadel 2",
+            "path" : "citadel2@2x"
+        },
+        {
+            "name" : "City 1",
+            "path" : "city@2x"
+        },
+        {
+            "name" : "City 2",
+            "path" : "city2@2x"
+        },
+        {
+            "name" : "Claw Tree",
+            "path" : "claw-tree@2x"
+        },
+        {
+            "name" : "Claw Tree v2",
+            "path" : "v2claw-tree@2x"
+        },
+        {
+            "name" : "Compass",
+            "path" : "compass@2x"
+        },
+        {
+            "name" : "Dragon",
+            "path" : "icon-dragon@2x"
+        },
+        {
+            "name" : "Farm (Field) v1",
+            "path" : "farm-field@2x"
+        },
+        {
+            "name" : "Flag",
+            "path" : "flag@2x"
+        },
+        {
+            "name" : "Map Scale",
+            "path" : "map-scale@2x"
+        },
+        {
+            "name" : "Mountain (Large)",
+            "path" : "large-mountain@2x"
+        },
+        {
+            "name" : "Mountain (Large) v2",
+            "path" : "v2large-mountain@2x"
+        },
+        {
+            "name" : "Ruins",
+            "path" : "ruins@2x"
+        },
+        {
+            "name" : "Sea Serpent",
+            "path" : "sea-serpent@2x"
+        },
+        {
+            "name" : "Ship",
+            "path" : "ship@2x"
+        },
+        {
+            "name" : "Squid",
+            "path" : "squid@2x"
+        },
+        {
+            "name" : "Star",
+            "path" : "star@2x"
+        },
+        {
+            "name" : "Temple 1",
+            "path" : "temple1@2x"
+        },
+        {
+            "name" : "Tower",
+            "path" : "tower@2x"
+        },
+        {
+            "name" : "Tower (Monster)",
+            "path" : "tower-monster@2x"
+        },
+        {
+            "name" : "Tower 1",
+            "path" : "tower1@2x"
+        },
+        {
+            "name" : "Tower 2",
+            "path" : "tower2@2x"
+        },
+        {
+            "name" : "Town",
+            "path" : "town@2x"
+        },
+        {
+            "name" : "Town 1",
+            "path" : "town1@2x"
+        },
+        {
+            "name" : "Town 2",
+            "path" : "town2@2x"
+        },
+        {
+            "name" : "Town 3",
+            "path" : "town3@2x"
+        },
+        {
+            "name" : "Village 2",
+            "path" : "village2@2x"
+        },
+        {
+            "name" : "Village 3",
+            "path" : "village3@2x"
+        },
+        {
+            "name" : "Volcano (Large)",
+            "path" : "volcano@2x"
+        },
+        {
+            "name" : "Volcano (Medium)",
+            "path" : "volvano@2x"
+        },
+        {
+            "name" : "Volcano v2",
+            "path" : "v2volvano@2x"
+        },
+        {
+            "name" : "Web",
+            "path" : "web@2x"
+        }
+    ],
+    "contractType" : "ObjectDataManifest",
+    "guid"         : "be025a50-080f-4186-bcb4-9bed81f2e6bc"
+}
