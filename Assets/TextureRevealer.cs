@@ -78,9 +78,9 @@ public class TextureRevealer : MonoBehaviour
         int indexer = 0;
         int currentRow = startingRow;
         int currentCol = startingCol;
-        for (int i = 0; i < sampleCols; i++)
+        for (int i = 0; i < sampleRows; i++)
         {
-            for (int j = 0; j < sampleRows; j++)
+            for (int j = 0; j < sampleCols; j++)
             {
                 Pixels[indexer] = 
             }
