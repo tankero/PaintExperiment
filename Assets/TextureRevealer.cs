@@ -51,7 +51,8 @@ public class TextureRevealer : MonoBehaviour
     {
 
 
-        
+        var sourcePixels = SourceTexture2D.GetPixels32();
+
         int height = SourceTexture2D.height;
         int width = SourceTexture2D.width;
 
@@ -80,14 +81,17 @@ public class TextureRevealer : MonoBehaviour
         int currentCol = startingCol;
         for (int i = 0; i < sampleRows; i++)
         {
+
             for (int j = 0; j < sampleCols; j++)
             {
-                Pixels[indexer] = 
+                Pixels[indexer] = sourcePixels[currentRow * width + currentCol];
+                indexer++;
+                currentCol++;
             }
+            currentCol = startingCol;
+            currentRow++;
         }
-
-
-
+        
         return Pixels;
     }
 
